@@ -1,0 +1,251 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-18 23:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: core/class-ep4-more-embeds.php:343
+msgid "Embeds"
+msgstr ""
+
+#: core/class-ep4-more-embeds.php:344
+msgid "Providers"
+msgstr ""
+
+#: core/class-ep4-more-embeds.php:344
+msgid ""
+"You can activate or deactivate auto-embedding of specific providers here."
+msgstr ""
+
+#. Activate auto-embed for {provider}. Where {provider} can be Facebook, etc.
+#: core/class-ep4-more-embeds.php:353
+#, php-format
+msgid "Activate auto-embed for %1$s."
+msgstr ""
+
+#: core/class-ep4-more-embeds.php:359
+msgid "Edit advanced settings"
+msgstr ""
+
+#. Advanced Settings for {provider} Embed. Where {provider} can be Facebook, etc.
+#: core/class-ep4-more-embeds.php:363
+#, php-format
+msgid "Advanced Settings for %1$s Embed."
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:90
+#: includes/embeds/class-bandcamp-embedder.php:158
+msgid "Width"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:91
+#: includes/embeds/class-box-embedder.php:98
+#: includes/embeds/class-bandcamp-embedder.php:159
+#: includes/embeds/class-bandcamp-embedder.php:170
+msgid "px"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:97
+#: includes/embeds/class-bandcamp-embedder.php:169
+msgid "Height"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:104
+msgid "View"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:105
+msgid "The view type for your files or folders."
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:108
+msgid "List"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:109
+msgid "Icons"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:115
+msgid "Sort"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:116
+msgid "The order the files or folders are sorted in."
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:120
+msgid "Name"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:121
+msgid "Date"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:122
+msgid "Size"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:127
+msgid "Direction"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:128
+msgid "The sort direction of files or folders."
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:131
+msgid "ASC"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:132
+msgid "DESC"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:138
+#: includes/embeds/class-bandcamp-embedder.php:140
+msgid "Theme"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:139
+#: includes/embeds/class-bandcamp-embedder.php:141
+msgid "The color theme of the widget."
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:142
+msgid "Blue"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:143
+msgid "Gray"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:149
+msgid "Show Parent Path"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:150
+msgid "Hide or show the folder path in the header of the frame."
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:156
+msgid "Show Item Feed Action"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:157
+msgid "Hide or show file comments or tasks."
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:163
+msgid "View File Only"
+msgstr ""
+
+#: includes/embeds/class-box-embedder.php:164
+msgid ""
+"User cannot download, print, or see the folder in which the file resides, "
+"even if the user has access."
+msgstr ""
+
+#: includes/embeds/class-bandcamp-embedder.php:109
+msgid "Layout"
+msgstr ""
+
+#: includes/embeds/class-bandcamp-embedder.php:110
+msgid "The layout of the embed."
+msgstr ""
+
+#: includes/embeds/class-bandcamp-embedder.php:113
+msgid "Slim"
+msgstr ""
+
+#: includes/embeds/class-bandcamp-embedder.php:114
+msgid "Artwork Only"
+msgstr ""
+
+#: includes/embeds/class-bandcamp-embedder.php:115
+msgid "Standard"
+msgstr ""
+
+#: includes/embeds/class-bandcamp-embedder.php:121
+msgid "Show Album Artwork"
+msgstr ""
+
+#: includes/embeds/class-bandcamp-embedder.php:122
+msgid "Select a size if you want to show album artwork."
+msgstr ""
+
+#: includes/embeds/class-bandcamp-embedder.php:126
+msgid "Big"
+msgstr ""
+
+#: includes/embeds/class-bandcamp-embedder.php:127
+msgid "Small"
+msgstr ""
+
+#: includes/embeds/class-bandcamp-embedder.php:128
+msgid "None"
+msgstr ""
+
+#: includes/embeds/class-bandcamp-embedder.php:133
+msgid "Show Tracklist"
+msgstr ""
+
+#: includes/embeds/class-bandcamp-embedder.php:134
+msgid "If checked, the album tracklist will be displayed."
+msgstr ""
+
+#: includes/embeds/class-bandcamp-embedder.php:144
+msgid "Light"
+msgstr ""
+
+#: includes/embeds/class-bandcamp-embedder.php:145
+msgid "Dark"
+msgstr ""
+
+#: includes/embeds/class-bandcamp-embedder.php:151
+msgid "Link color"
+msgstr ""
+
+#: includes/embeds/class-bandcamp-embedder.php:152
+msgid "Choose a link color."
+msgstr ""
+
+#: includes/embeds/class-bandcamp-embedder.php:159
+msgid "square"
+msgstr ""
+
+#: includes/embeds/class-bandcamp-embedder.php:207
+msgid "[bandcamp: shortcode must include 'track', 'album', or 'video' param]"
+msgstr ""
+
+#. Name of the plugin
+msgid "EP4 More Embeds"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Support for more embedded content on your website. Current supported embeds "
+"are Box.com, Bandcamp, VEVO & Twitch."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://vizemedia.com/plugins/ep4-more-embeds"
+msgstr ""
+
+#. Author of the plugin
+msgid "Dave Lavoie, EP4"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://ep4.com"
+msgstr ""
